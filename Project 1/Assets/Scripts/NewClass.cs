@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -17,5 +18,5 @@ public class NewClass : MonoBehaviour
         print(floatNum);
         print(gameObj);
     }
-
+    
 }
