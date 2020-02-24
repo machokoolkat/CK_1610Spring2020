@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
@@ -6,11 +7,15 @@ using UnityEngine.UI;
 public class ImageBehaviour : MonoBehaviour
 {
     private Image imageObj;
+    public FloatData dataObj;
 
-    void Start()
+    private void Start()
     {
         imageObj = GetComponent<Image>();
     }
-    
-    
+
+    private void Update()
+    {
+        imageObj.fillAmount = dataObj.value;
+    }
 }
