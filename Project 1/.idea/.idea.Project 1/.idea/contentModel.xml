@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10863788\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\10863788\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Project 1.-380687501.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10863788\Documents\GitRepos\CK_1610Spring2020\Project 1" t="IncludeRecursive">
+    <e p="C:\Users\moss_\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\moss_\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Project 1.-495983695.00" t="ExcludeRecursive" />
+    <e p="C:\Users\moss_\OneDrive\Documents\GitRepos\CK_1610Spring2020\Project 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
           <e p="CharacterTwoMove.cs" t="Include" />
+          <e p="ColorBehaviour.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="ImageBehaviour.cs" t="Include" />
