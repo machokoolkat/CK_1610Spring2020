@@ -16,7 +16,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAndFixedUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AwakeAndStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicSyntax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventStay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForLoop.cs" root0="FORCE_HIGHLIGHTING" />
@@ -65,6 +67,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ForEachLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScopesAndAccessModifiers.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnotherClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AwakeAndStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UpdateAndFixedUpdate.cs" />
       </list>
     </option>
   </component>
@@ -144,6 +148,7 @@
       <workItem from="1583187431163" duration="515000" />
       <workItem from="1583467267433" duration="2344000" />
       <workItem from="1583559456770" duration="3137000" />
+      <workItem from="1583648554815" duration="652000" />
     </task>
     <servers />
   </component>

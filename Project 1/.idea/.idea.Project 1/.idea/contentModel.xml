@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AnotherClass.cs" t="Include" />
+          <e p="AwakeAndStart.cs" t="Include" />
           <e p="BasicSyntax.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
@@ -36,6 +37,7 @@
           <e p="TriggerEventStay.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
           <e p="TriggertEventExit.cs" t="Include" />
+          <e p="UpdateAndFixedUpdate.cs" t="Include" />
           <e p="VariablesAndFunctions.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
           <e p="WhileLoop.cs" t="Include" />
