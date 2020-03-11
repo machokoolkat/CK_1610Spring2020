@@ -36,6 +36,7 @@
           <e p="SpriteController.cs" t="Include" />
           <e p="StringData.cs" t="Include" />
           <e p="TextBehaviour.cs" t="Include" />
+          <e p="TransformObjects.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggerEventStay.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />

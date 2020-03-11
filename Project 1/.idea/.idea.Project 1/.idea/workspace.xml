@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScopesAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnableComponents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +76,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EnableComponents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActiveObjects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CheckState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformObjects.cs" />
       </list>
     </option>
   </component>
@@ -155,7 +157,7 @@
       <workItem from="1583467267433" duration="2344000" />
       <workItem from="1583559456770" duration="3137000" />
       <workItem from="1583648554815" duration="903000" />
-      <workItem from="1583900825059" duration="359000" />
+      <workItem from="1583900825059" duration="1224000" />
     </task>
     <servers />
   </component>
