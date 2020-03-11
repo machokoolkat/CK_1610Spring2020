@@ -27,9 +27,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoWhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScopesAndAccessModifiers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnableComponents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnotherClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActiveObjects.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,6 +72,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AnotherClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AwakeAndStart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UpdateAndFixedUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnableComponents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActiveObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckState.cs" />
       </list>
     </option>
   </component>
@@ -148,7 +154,8 @@
       <workItem from="1583187431163" duration="515000" />
       <workItem from="1583467267433" duration="2344000" />
       <workItem from="1583559456770" duration="3137000" />
-      <workItem from="1583648554815" duration="652000" />
+      <workItem from="1583648554815" duration="903000" />
+      <workItem from="1583900825059" duration="359000" />
     </task>
     <servers />
   </component>
