@@ -18,8 +18,10 @@
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
           <e p="ColorBehaviour.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
           <e p="DoWhileLoop.cs" t="Include" />
           <e p="EnableComponents.cs" t="Include" />
+          <e p="EnumsSwitches.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="ForEachLoop.cs" t="Include" />
           <e p="ForLoop.cs" t="Include" />
@@ -31,7 +33,6 @@
           <e p="ListsAndLoops.cs" t="Include" />
           <e p="MonoBehaviours.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
-          <e p="NewClass.cs" t="Include" />
           <e p="NewEvent.cs" t="Include" />
           <e p="Review.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
