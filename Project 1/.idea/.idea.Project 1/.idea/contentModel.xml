@@ -18,6 +18,7 @@
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
           <e p="ColorBehaviour.cs" t="Include" />
+          <e p="Coroutines.cs" t="Include" />
           <e p="Debugger.cs" t="Include" />
           <e p="DoWhileLoop.cs" t="Include" />
           <e p="EnableComponents.cs" t="Include" />
