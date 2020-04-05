@@ -14,7 +14,6 @@
             <e p="ColorBehaviour.cs" t="Include" />
             <e p="ImageBehaviour.cs" t="Include" />
             <e p="MonoBehaviours.cs" t="Include" />
-            <e p="NavAgentBehaviour.cs" t="Include" />
             <e p="NewBehaviourScript.cs" t="Include" />
             <e p="TextBehaviour.cs" t="Include" />
           </e>
@@ -46,7 +45,7 @@
             <e p="LightController.cs" t="Include" />
             <e p="ListsAndLoops.cs" t="Include" />
             <e p="MouseEvents.cs" t="Include" />
-            <e p="NavAgentBehaviour1.cs" t="Include" />
+            <e p="NavAgentBehaviour.cs" t="Include" />
             <e p="NewEvent.cs" t="Include" />
             <e p="RigidBodyForces.cs" t="Include" />
             <e p="ScopesAndAccessModifiers.cs" t="Include" />
