@@ -10,6 +10,8 @@
           <e p="ActiveObjects.cs" t="Include" />
           <e p="AnotherClass.cs" t="Include" />
           <e p="AwakeAndStart.cs" t="Include" />
+          <e p="AxisExample.cs" t="Include" />
+          <e p="AxisRawExample.cs" t="Include" />
           <e p="BasicSyntax.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CamerLookAt.cs" t="Include" />
@@ -32,7 +34,6 @@
           <e p="IfStatementsTutorial.cs" t="Include" />
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
-          <e p="KeyInput.cs" t="Include" />
           <e p="LightController.cs" t="Include" />
           <e p="ListsAndLoops.cs" t="Include" />
           <e p="MonoBehaviours.cs" t="Include" />
