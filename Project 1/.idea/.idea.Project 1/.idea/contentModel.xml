@@ -37,6 +37,7 @@
           <e p="LightController.cs" t="Include" />
           <e p="ListsAndLoops.cs" t="Include" />
           <e p="MonoBehaviours.cs" t="Include" />
+          <e p="MouseClick.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewEvent.cs" t="Include" />
           <e p="Review.cs" t="Include" />
