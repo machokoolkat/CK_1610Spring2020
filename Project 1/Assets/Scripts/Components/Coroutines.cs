@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -10,14 +9,15 @@ public class Coroutines : MonoBehaviour
     public IntData numberData;
     public UnityEvent startEvent, repeatEvent, endEvent, postEndEvent;
     private WaitForSeconds waitObj;
-    IEnumerator Start()
+    
+    private IEnumerator Start()
     {
         waitObj = new WaitForSeconds(seconds);
         startEvent.Invoke();
         while (counter > 0)
         {
             numberData.value = counter;
-            yield return new WaitForSeconds(seconds);
+            yield return waitObj;
             repeatEvent.Invoke();
             counter--;
         }
