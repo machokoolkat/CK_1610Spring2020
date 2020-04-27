@@ -14,7 +14,6 @@
             <e p="Behaviours" t="Include">
               <e p="ColorBehaviour.cs" t="Include" />
               <e p="ImageBehaviour.cs" t="Include" />
-              <e p="MonoBehaviours.cs" t="Include" />
               <e p="NewBehaviourScript.cs" t="Include" />
               <e p="TextBehaviour.cs" t="Include" />
             </e>
@@ -54,7 +53,6 @@
               <e p="SpriteController.cs" t="Include" />
               <e p="StringData.cs" t="Include" />
               <e p="TransformObjects.cs" t="Include" />
-              <e p="TriggerEvents.cs" t="Include" />
               <e p="TriggerEventStay.cs" t="Include" />
               <e p="TriggeringEvents.cs" t="Include" />
               <e p="TriggertEventExit.cs" t="Include" />
@@ -65,8 +63,12 @@
             </e>
           </e>
           <e p="For Game" t="Include">
+            <e p="Behaviours" t="Include">
+              <e p="MonoBehaviours.cs" t="Include" />
+            </e>
             <e p="Components" t="Include">
               <e p="GameCharacterMovement.cs" t="Include" />
+              <e p="TriggerEvents.cs" t="Include" />
             </e>
           </e>
         </e>
