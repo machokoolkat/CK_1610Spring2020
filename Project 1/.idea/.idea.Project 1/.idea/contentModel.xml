@@ -21,8 +21,6 @@
               <e p="ActiveObjects.cs" t="Include" />
               <e p="AnotherClass.cs" t="Include" />
               <e p="AwakeAndStart.cs" t="Include" />
-              <e p="AxisExample.cs" t="Include" />
-              <e p="AxisRawExample.cs" t="Include" />
               <e p="CameraController.cs" t="Include" />
               <e p="CamerLookAt.cs" t="Include" />
               <e p="CharacterMovement.cs" t="Include" />
@@ -49,7 +47,6 @@
               <e p="NavAgentBehaviour.cs" t="Include" />
               <e p="NewEvent.cs" t="Include" />
               <e p="RigidBodyForces.cs" t="Include" />
-              <e p="ScopesAndAccessModifiers.cs" t="Include" />
               <e p="SpriteController.cs" t="Include" />
               <e p="StringData.cs" t="Include" />
               <e p="TransformObjects.cs" t="Include" />
