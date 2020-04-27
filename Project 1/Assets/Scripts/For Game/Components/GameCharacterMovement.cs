@@ -23,7 +23,7 @@ public class GameCharacterMovement : MonoBehaviour
             jumpCount = 0;
         }
         
-        positionDirection.x = Input.GetAxis("Vertical")*speed;
+        positionDirection.x = Input.GetAxis("Horizontal")*speed;
         
         if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax)
         {
