@@ -35,7 +35,6 @@
               <e p="DoWhileLoop.cs" t="Include" />
               <e p="EnableComponents.cs" t="Include" />
               <e p="EnumsSwitches.cs" t="Include" />
-              <e p="FloatData.cs" t="Include" />
               <e p="ForEachLoop.cs" t="Include" />
               <e p="ForLoop.cs" t="Include" />
               <e p="IfStatements.cs" t="Include" />
@@ -64,6 +63,8 @@
               <e p="MonoBehaviours.cs" t="Include" />
             </e>
             <e p="Components" t="Include">
+              <e p="CameraFollow.cs" t="Include" />
+              <e p="FloatData.cs" t="Include" />
               <e p="GameCharacterMovement.cs" t="Include" />
               <e p="TriggerEvents.cs" t="Include" />
             </e>
