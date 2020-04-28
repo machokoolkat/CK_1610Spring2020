@@ -64,6 +64,7 @@
             </e>
             <e p="Components" t="Include">
               <e p="CameraFollow.cs" t="Include" />
+              <e p="EndTrigger.cs" t="Include" />
               <e p="FloatData.cs" t="Include" />
               <e p="GameCharacterMovement.cs" t="Include" />
               <e p="GameManager.cs" t="Include" />
